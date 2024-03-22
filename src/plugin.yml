@@ -1,0 +1,11 @@
+main: me.frawlah.bw.mapcmd.Main
+name: BedWars1058-MapCommand
+version: 1.0
+author: Frawlah
+commands:
+  map:
+    description: Map Command for BedWars1058
+    usage: /<command>
+  wtfmap:
+    description: Map Command for BedWars1058
+    usage: /<command>
